@@ -21,7 +21,7 @@ print $biru."
 | |     / _ \ | |_) | ||  \| | |  _
 | |___ / ___ \|  __/| || |\  | |_| |
  \____/_/   \_\_|  |___|_| \_|\____|".$t;
- echo $putih."create by : mr.MG | "."kode invite: ".$t.$t;
+ echo $putih."create by : mr.MG | "."kode invite:52j70j ".$t.$t;
 
 include(readline($turkis."masukan config : "));
 //echo"$turkis bot start $putih \n";
