@@ -1,6 +1,6 @@
 <?php
-# di buat oleh adidoank
-# bandung 25 september 2018
+# di buat oleh mr.MG
+# tangerang 26 september 2018
 
 @system("clear");
 @system("clear");
@@ -15,13 +15,13 @@ $pink="\033[1;35m";
 $red="\033[1;31m";
 $kuning="\033[1;33m";
 $t = "\n";
-print $ijo."
+print $biru."
   ____    _    ____ ___ _   _  ____
  / ___|  / \  |  _ \_ _| \ | |/ ___|
 | |     / _ \ | |_) | ||  \| | |  _
 | |___ / ___ \|  __/| || |\  | |_| |
  \____/_/   \_\_|  |___|_| \_|\____|".$t;
- echo $putih."create by : adidoank | "."kode invite: q0ji94".$t.$t;
+ echo $putih."create by : mr.MG | "."kode invite: ".$t.$t;
 
 include(readline($turkis."masukan config : "));
 //echo"$turkis bot start $putih \n";
